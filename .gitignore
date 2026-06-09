@@ -1,0 +1,16 @@
+# Data files
+data/raw/
+data/processed/
+shapefiles/
+
+# Python
+__pycache__/
+*.pyc
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Excel and CSV
+*.xlsx
+*.csv
+*.db
