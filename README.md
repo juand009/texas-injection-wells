@@ -129,6 +129,19 @@ pip install pandas geopandas selenium beautifulsoup4 sodapy contextily matplotli
 
 ---
 
+## 📊 Dashboard Preview
+
+### Overview
+![Overview](dashboard/screenshots/overview.png)
+
+### Trends
+![Trends](dashboard/screenshots/trends.png)
+
+### Geographic Map
+![Geo Map](dashboard/screenshots/geo-map.png)
+
+
+
 ## 📊 Key Results
 
 - **175,838** monthly injection records collected and cleaned
